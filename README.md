@@ -6,5 +6,3 @@ UCLA Class Assignments - Ethan Mendoza
 
 - [@Paradox4456](https://github.com/Paradox4456)
 
-## Instructor
-- [@dhenson](https://github.com/dhenson) 
