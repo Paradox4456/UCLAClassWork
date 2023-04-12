@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ethan/RiderProjects/UCLAClassWork/Assignments/1.2 Assignment/2.3 Assignment/2.3 Assignment.csproj": {}
+    "/Users/ethan/RiderProjects/UCLAClassWork/Assignments/2.3 assignment/2.3 assignment.csproj": {}
   },
   "projects": {
-    "/Users/ethan/RiderProjects/UCLAClassWork/Assignments/1.2 Assignment/2.3 Assignment/2.3 Assignment.csproj": {
+    "/Users/ethan/RiderProjects/UCLAClassWork/Assignments/2.3 assignment/2.3 assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ethan/RiderProjects/UCLAClassWork/Assignments/1.2 Assignment/2.3 Assignment/2.3 Assignment.csproj",
-        "projectName": "2.3 Assignment",
-        "projectPath": "/Users/ethan/RiderProjects/UCLAClassWork/Assignments/1.2 Assignment/2.3 Assignment/2.3 Assignment.csproj",
+        "projectUniqueName": "/Users/ethan/RiderProjects/UCLAClassWork/Assignments/2.3 assignment/2.3 assignment.csproj",
+        "projectName": "2.3 assignment",
+        "projectPath": "/Users/ethan/RiderProjects/UCLAClassWork/Assignments/2.3 assignment/2.3 assignment.csproj",
         "packagesPath": "/Users/ethan/.nuget/packages/",
-        "outputPath": "/Users/ethan/RiderProjects/UCLAClassWork/Assignments/1.2 Assignment/2.3 Assignment/obj/",
+        "outputPath": "/Users/ethan/RiderProjects/UCLAClassWork/Assignments/2.3 assignment/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ethan/.nuget/NuGet/NuGet.Config"
