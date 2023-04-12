@@ -1,0 +1,15 @@
+/Users/ethan/RiderProjects/UCLAClassWork/Assignments/Assignment 2.3/obj/Debug/net7.0/Assignment 2.3.csproj.AssemblyReference.cache
+/Users/ethan/RiderProjects/UCLAClassWork/Assignments/Assignment 2.3/obj/Debug/net7.0/Assignment 2.3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan/RiderProjects/UCLAClassWork/Assignments/Assignment 2.3/obj/Debug/net7.0/Assignment 2.3.AssemblyInfoInputs.cache
+/Users/ethan/RiderProjects/UCLAClassWork/Assignments/Assignment 2.3/obj/Debug/net7.0/Assignment 2.3.AssemblyInfo.cs
+/Users/ethan/RiderProjects/UCLAClassWork/Assignments/Assignment 2.3/obj/Debug/net7.0/Assignment 2.3.csproj.CoreCompileInputs.cache
+/Users/ethan/RiderProjects/UCLAClassWork/Assignments/Assignment 2.3/bin/Debug/net7.0/Assignment 2.3
+/Users/ethan/RiderProjects/UCLAClassWork/Assignments/Assignment 2.3/bin/Debug/net7.0/Assignment 2.3.deps.json
+/Users/ethan/RiderProjects/UCLAClassWork/Assignments/Assignment 2.3/bin/Debug/net7.0/Assignment 2.3.runtimeconfig.json
+/Users/ethan/RiderProjects/UCLAClassWork/Assignments/Assignment 2.3/bin/Debug/net7.0/Assignment 2.3.dll
+/Users/ethan/RiderProjects/UCLAClassWork/Assignments/Assignment 2.3/bin/Debug/net7.0/Assignment 2.3.pdb
+/Users/ethan/RiderProjects/UCLAClassWork/Assignments/Assignment 2.3/obj/Debug/net7.0/Assignment 2.3.dll
+/Users/ethan/RiderProjects/UCLAClassWork/Assignments/Assignment 2.3/obj/Debug/net7.0/refint/Assignment 2.3.dll
+/Users/ethan/RiderProjects/UCLAClassWork/Assignments/Assignment 2.3/obj/Debug/net7.0/Assignment 2.3.pdb
+/Users/ethan/RiderProjects/UCLAClassWork/Assignments/Assignment 2.3/obj/Debug/net7.0/Assignment 2.3.genruntimeconfig.cache
+/Users/ethan/RiderProjects/UCLAClassWork/Assignments/Assignment 2.3/obj/Debug/net7.0/ref/Assignment 2.3.dll
