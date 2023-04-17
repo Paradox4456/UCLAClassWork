@@ -19,5 +19,17 @@ class Program
 
         double quotient = x / z;
         Console.WriteLine("x / z = " + quotient);
+
+        double sqrt = Math.Sqrt(x);
+        Console.WriteLine("Square root of x = " + sqrt);
+
+        double sin = Math.Sin(y);
+        Console.WriteLine("Sine of y = " + sin);
+
+        double cos = Math.Cos(z);
+        Console.WriteLine("Cosine of z = " + cos);
+
+        Console.WriteLine("This is the end of the application! Click enter to exit!");
+        Console.ReadLine();
     }
 }
